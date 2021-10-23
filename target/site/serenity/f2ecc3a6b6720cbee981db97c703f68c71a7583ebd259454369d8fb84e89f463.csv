@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Código de respuesta de solicitud GET","Validar el codigo del servicio ok","SUCCESS","2021-10-23T00:22:52.93-05:00[America/Bogota]","0.0","4.87"
+"Código de respuesta de solicitud GET","Validar la respuesta de datos nombre y url","SUCCESS","2021-10-23T00:22:57.805-05:00[America/Bogota]","0.0","1.85"

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="co.com.sofka.runner.pokeapi.generation" skipped="0" tests="1" time="4.45" timestamp="2021-10-22 05:10:36"><testcase classname="co.com.sofka.runner.pokeapi.generation" name="Get generation fail"><failure message="&#10;Expected: &lt;400&gt;&#10;     but: was &lt;200&gt;" type="java.lang.AssertionError">
+Expected: &lt;400&gt;
+     but: was &lt;200&gt;</failure><system-err>
+Expected: &lt;400&gt;
+     but: was &lt;200&gt;&#13;
+co.com.sofka.runner.pokeapi.generation.getGenerationFail(generation.java:63)&#13;
+</system-err></testcase></testsuite>
